@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Baymax15 - GitHub](https://github.com/Baymax15)
