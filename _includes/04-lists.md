@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Eat :bread:
+2. Sleep :zzz:
+3. Code :coffee:
